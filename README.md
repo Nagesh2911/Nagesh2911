@@ -2,7 +2,7 @@
 
 ### Senior Software Engineer | Python | FastAPI | PHP
 
-10+ years of experience in backend development, REST APIs, database design, and performance optimization.
+9+ years of experience in backend development, REST APIs, database design, and performance optimization.
 
 **Tech Stack:**  
 Python • FastAPI • PHP • Laravel • CodeIgniter • MySQL • PostgreSQL • Redis • AWS • Docker
